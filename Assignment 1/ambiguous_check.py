@@ -25,3 +25,4 @@ for A in range(-100, 101):
         ambiguous_A_values.append(A)
 # Print the ambiguous A values for B=1
 print("Ambiguous A values for B=1 are:", ambiguous_A_values)
+#Done
